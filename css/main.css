@@ -297,4 +297,11 @@ h1 {
 	font-size: 20px;
 	line-height: 1.5;
   }
+.slick-prev:before,
+
+.slick-next:before {
+
+    color: #34475C;
+
+  }
 	  
